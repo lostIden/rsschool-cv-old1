@@ -1,4 +1,4 @@
-[rsschool-cv](https://github.com/ayanakoji1/rsschool-cv)
+# rsschool-cv
 ***
 ## Roman Bartosh
 > Not an estimated classic mistake of all wise men: do not think that there are no people smarter than you.
