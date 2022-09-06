@@ -27,6 +27,7 @@ Strengths: If you ask me a question to which I do not know the answer, I will an
 * JavaScript (Fundamentals, ES6+, DOM, JSON, Asynchronous JavaScript)
 * Git/GitHub
 * Database(SQL)
+* Linux/MacOS
 
 ## Code example
 ```
