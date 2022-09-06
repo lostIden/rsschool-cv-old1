@@ -1,6 +1,7 @@
-[rsschool-cv] (https://github.com/ayanakoji1/rsschool-cv)
+[rsschool-cv](https://github.com/ayanakoji1/rsschool-cv)
 ***
 ### Roman Bartosh
+> Not an estimated classic mistake of all wise men: do not think that there are no people smarter than you.
 
 ## Contacts
 
@@ -37,10 +38,10 @@ function multiply(a, b){
 
 ## Courses
 
-Creation of modern responsive websites. [HTML5, CSS3] (https://www.udemy.com/course/web-professional-html5/)
-An intense [JavaScript dive (in progress)] (https://www.udemy.com/course/intensive-js/)
+* Creation of modern responsive websites. [HTML5, CSS3](https://www.udemy.com/course/web-professional-html5/)
+* An intense [JavaScript dive (in progress)](https://www.udemy.com/course/intensive-js/)
 
 ## Languages
 
-Russian - Native
-English - A2 (Pre-Intermediate)
+* Russian - Native
+* English - A2 (Pre-Intermediate)
